@@ -1,0 +1,6 @@
+# Ignore compiled binaries
+BDKComparo
+FolderCompare
+.DS_Store
+.claude/
+
