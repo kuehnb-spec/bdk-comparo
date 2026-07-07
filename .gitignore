@@ -4,3 +4,6 @@ FolderCompare
 .DS_Store
 .claude/
 
+
+# local-assets -> ~/ProjectAssets/<project> (NAS-synced bulk files; never in git)
+local-assets
