@@ -37,3 +37,7 @@ Requires macOS and a recent Swift toolchain.
 ## Related work elsewhere
 
 - Could serve as a helper during the workspace reorganization migration when verifying file moves preserved content. See `~/Desktop/REORG_PROTOCOL.md`.
+
+## Project summary
+
+A single-file macOS folder comparison utility. SwiftUI, no dependencies. Compiles with swiftc directly. Compares two folders recursively, categorizes differences, supports one-way sync.
